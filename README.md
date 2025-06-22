@@ -8,6 +8,8 @@ A brief description of what this project does and who it's for
 📍 Imphal, India  
 📧 [adiyatakhellambam@gmail.com](mailto:adiyatakhellambam@gmail.com)  
 [LinkedIn](https://linkedin.com/in/adiya-takhellambam)
+[Twitter](https://x.com/Adiyatakhell)
+
 
 ---
 
