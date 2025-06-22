@@ -24,16 +24,6 @@ _Bachelor of Computer Applications (4-Year Degree)_
 2022 – 2026 (Expected)  
 - Specializing in Networking, Cybersecurity, and Programming
 
-**XTRA EDGE SCHOOL**  
-_Class 12 – Science Stream_  
-Completed: 2022
-
-**Standard Robarth Higher Secondary School**  
-_Class 10_  
-Completed: 2020
-
----
-
 ## 💼 Experience
 
 **Cybersecurity Intern – Waspire**  
