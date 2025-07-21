@@ -22,8 +22,8 @@ A hardworking and innovative BCA student in the third year at NIELIT Imphal, spe
 ## 🎓 Education
 
 **NIELIT Imphal**  
-_Bachelor of Computer Applications (4-Year Degree)_  
-2022 – 2026 (Expected)  
+_Bachelor of Computer Applications (3-Year Degree)_  
+2022 – 2025 
 - Specializing in Networking, Cybersecurity, and Programming
 
 ## 💼 Experience
