@@ -1,7 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
 
 # 👋 Hi, I'm Takhellambam Adiya Singh
 
@@ -13,11 +10,10 @@ A brief description of what this project does and who it's for
 
 ---
 
-## 🧑‍💻 Professional Summary
+
 
 A hardworking and innovative BCA student in the third year at NIELIT Imphal, specializing in cybersecurity. Proficient in Python, SQL, and computer networking, with practical knowledge acquired through academic work and an internship at Waspire. Passionate about protecting digital systems and data through secure design and implementation methods. Exhibits strong problem-solving abilities and a strong desire to work with technology-driven teams with a security and innovation focus.
 
----
 
 ## 🎓 Education
 
