@@ -55,8 +55,8 @@ I aspire to begin my journey as a **Software Engineer**, contributing to **innov
 
 ## 📫 Let’s Connect  
 
-[![LinkedIn](https://www.linkedin.com/in/adiya-takhellambam/)  
-[![GitHub](https://github.com/AdiyaTakhell/AdiyaTakhell/)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adiya-takhellambam/)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/AdiyaTakhell)
 
 ---
 
