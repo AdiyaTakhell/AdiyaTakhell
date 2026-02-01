@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adiya Takhellambam</h1>
-<h3 align="center">Software Developer · Backend & Full-Stack Focus</h3>
+<h3 align="center">Software Engineer · Backend & Full-Stack Focus</h3>
 
 <p align="center">
 MCA student with a strong interest in backend and full-stack development.<br/>
