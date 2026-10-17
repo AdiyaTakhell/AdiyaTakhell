@@ -5,30 +5,26 @@ Java Backend Engineer • Software Engineer
 </p>
 
 <p align="center">
-Focused on backend engineering, Java, and Data Structures & Algorithms — building real-world projects while strengthening my software engineering fundamentals.
+Building Java backends and REST APIs. Currently working through Spring Boot and sharpening my core CS fundamentals.
 </p>
 
 ---
 
-## About Me
+## About me
 
-I'm focused on software engineering, Java backend development, and problem solving. I'm currently building applications with **Java** and learning **Spring Boot** through **Spring Academy**, while consistently practicing **Data Structures & Algorithms**.
+I write backend code in Java. Right now, I'm spending most of my time building applications with Spring Boot (working through the courses on Spring Academy) and grinding Data Structures & Algorithms to keep my problem-solving sharp.
 
-I'm particularly interested in:
+I got my start with Java through the University of Helsinki's MOOC.fi (Java Programming I & II), which really drilled in the fundamentals. Since then, I've been digging deeper into:
 
-- Backend systems and REST API development
-- Database design
-- Writing clean, maintainable code
+- Designing REST APIs and backend services
+- Relational database design and SQL
+- Writing code that is easy to read, test, and maintain
 
-Alongside backend development, I'm comfortable with **SQL, Git, GitHub, Linux, and Postman**, and I have working knowledge of **React** for building end-to-end applications.
-
-I completed **Java Programming I & II** from **MOOC.fi (University of Helsinki)** and enjoy working in the terminal as part of my daily development workflow.
-
-My goal is to build reliable, scalable software and continue growing as a backend engineer.
+For my daily workflow, I live in the terminal on Linux and use Git, GitHub, and Postman heavily. While my main focus is the backend, I also know enough React to wire up a frontend and ship full-stack projects from scratch.
 
 ---
 
-## Tech Stack
+## Tech stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" title="Java"/>
@@ -55,8 +51,7 @@ My goal is to build reliable, scalable software and continue growing as a backen
   <a href="https://linkedin.com/in/takhellambam-adiya-singh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" alt="LinkedIn"/>
   </a>
-   <a href="https://twitter.com/adiyatakhell" target="_blank">
+  <a href="https://twitter.com/adiyatakhell" target="_blank">
     <img src="https://cdn.simpleicons.org/x/000000" width="32" alt="X" title="X"/>
   </a>
- 
 </p>
