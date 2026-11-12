@@ -37,6 +37,7 @@ For my daily workflow, I live in the terminal on Linux and use Git, GitHub, and 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux"/>
